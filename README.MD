@@ -1,6 +1,5 @@
-![Image of User Details](User-Details.png)
+ 
 
-This project demos a super simple referral system built with Laravel. To read the tutorial I wrote for this, click [here](https://dev.to/simioluwatomi/let-s-build-a-super-simple-referral-system-with-laravel-1o3h)  .
  
  To run the project
 
